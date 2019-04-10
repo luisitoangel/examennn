@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: darkblue;
+}
+body{
+    width: 1300px;
+    height: 900px;
+    background: darkgray;
+    margin: auto;
+}
+#izquierda{
+    width: 450px;
+    height: 500px;
+    background: aqua;
+    float: left;
+    
+}
+#h1{
+    text-align: center;    
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+label{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#reset{
+    margin-top: 80px;
+    margin-left: 200px;
+    background: darkgoldenrod;
+    color: aliceblue;
+    width: 80px;
+    height: 30px;
+}
+#guardar{
+    margin-left: 10px;
+    background: red;
+    color: bisque;
+    width: 80px;
+    height: 30px;
+}
+#derecha{
+    width: 850px;
+    height: 500px;
+    background: chartreuse;
+    float: left;
+}
+#ubicacion{
+    width: 125px;
+    margin-bottom: 10px;
+}
+#dni{
+    width: 130px;
+    margin-bottom: 10px;
+}
+#cantper{
+    width: 40px;
+}
+#t2{
+    width: 850px;
+    height: 250px;
+    background: sandybrown;
+
+}
+
+#t1{
+    width: 850px;
+    height: 250px;
+    background: seagreen;  
+}
+#tabla1{
+    background: darkgrey;
+    border: 2px solid red;
+}
+th, td {
+    
+    width: 160px;
+    text-align: center;
+
+}
+#tot,total{
+    margin-left: 260px;
+}
+#tabla2{
+    border: 2px solid red;
+    margin-bottom: 170px;
+    
+}
